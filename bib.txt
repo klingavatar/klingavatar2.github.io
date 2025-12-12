@@ -1,0 +1,6 @@
+@article{ding2025klingavatar2,
+    title={KlingAvatar 2.0: Co-Reasoning Directed Spatio-Temporal Cascade Modeling for Avatar Synthesis},
+    author={Team Kling and Chen, Jialu and Ding, Yikang and Fang, Zhixue and Gai, Kun and Gao, Yuan and He, Kang and Hua, Jingyun and Jiang, Boyuan and Lao, Mingming and Li, Xiaohan and Liu, Hui and Liu, Jiwen and Liu, Xiaoqiang and Liu, Yuan and Lu, Shun and Mao, Yongsen and Shao, Yingchao and Shi, Huafeng and Shi, Xiaoyu and Sun, Peiqin and Tang, Songlin and Wan, Pengfei and Wang, Chao and Wang, Xuebo and Zhang, Haoxian and Zhang, Yuanxing and Zhou, Yan},
+    journal={arXiv preprint arXiv:2509.09595},
+    year={2025}
+}
